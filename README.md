@@ -1,10 +1,10 @@
 # Gemini CLI
 
-[![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
-[![Gemini CLI E2E (Chained)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml)
+[![Gemini CLI CI](https://github.com/lg38c/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/lg38c/gemini-cli/actions/workflows/ci.yml)
+[![Gemini CLI E2E (Chained)](https://github.com/lg38c/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/lg38c/gemini-cli/actions/workflows/chained_e2e.yml)
 [![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)
-[![License](https://img.shields.io/github/license/google-gemini/gemini-cli)](https://github.com/google-gemini/gemini-cli/blob/main/LICENSE)
-[![View Code Wiki](https://www.gstatic.com/_/boq-sdlc-agents-ui/_/r/YUi5dj2UWvE.svg)](https://codewiki.google/github.com/google-gemini/gemini-cli)
+[![License](https://img.shields.io/github/license/lg38c/gemini-cli)](https://github.com/lg38c/gemini-cli/blob/main/LICENSE)
+[![View Code Wiki](https://www.gstatic.com/_/boq-sdlc-agents-ui/_/r/YUi5dj2UWvE.svg)](https://codewiki.google/github.com/lg38c/gemini-cli)
 
 ![Gemini CLI Screenshot](./docs/assets/gemini-screenshot.png)
 
@@ -344,7 +344,7 @@ encourage the community to:
 See our [Contributing Guide](./CONTRIBUTING.md) for development setup, coding
 standards, and how to submit pull requests.
 
-Check our [Official Roadmap](https://github.com/orgs/google-gemini/projects/11)
+Check our [Official Roadmap](https://github.com/orgs/lg38/projects/11)
 for planned features and priorities.
 
 ## 📖 Resources
@@ -353,7 +353,7 @@ for planned features and priorities.
 - **[Changelog](./docs/changelogs/index.md)** - See recent notable updates.
 - **[NPM Package](https://www.npmjs.com/package/@google/gemini-cli)** - Package
   registry.
-- **[GitHub Issues](https://github.com/google-gemini/gemini-cli/issues)** -
+- **[GitHub Issues](https://github.com/lg38c/gemini-cmgeminiues)** -
   Report bugs or request features.
 - **[Security Advisories](https://github.com/google-gemini/gemini-cli/security/advisories)** -
   Security updates.
